@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGrid_view</string>
+    <string name="tvswipDescription">w</string>
+
+
+    <string name="toastTop">w1</string>
+    <string name="toastRight">w2</string>
+    <string name="toastLeft">w3</string>
+    <string name="toastBottom">w4</string>
+    <string name="textview">The way to start new activities is to broadcast an intent, and there is a specific kind of intent that you can use to pass data from one activity to another. My recommendation is that you check out the Android </string>
+
+</resources>
